@@ -1,0 +1,1 @@
+Paint.model.ShapeInterface
